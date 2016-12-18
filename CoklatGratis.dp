@@ -1,0 +1,26 @@
+program Menghitung_Coklat_Gratis;
+{I.S.: }
+{F.S.: }
+
+var
+n, a, b, c : integer;
+
+begin
+   write('Masukan jumlah coklat = '); readln(n);
+   if(n < 100)
+      then
+         begin
+            total := 0;
+            repeat
+               begin
+                  a := n div 3;
+                  b := n mod 3;
+                  n := a + b;
+                  total := total + a;
+               end;
+            until(n < 3)
+         end;
+    writeln(total);
+end.
+[Project]
+FileName=D:\Documents\Algoritma & Pemrograman\Tugas\Pascal\CoklatGratis.dp

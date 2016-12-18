@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Documents\Algoritma & Pemrograman\Tugas\Pascal\penjumlahanmatriks.dp
+Name=penjumlahanmatriks
+MainUnit=D:\Documents\Algoritma & Pemrograman\Tugas\Pascal\penjumlahan_matriks.pas
+UnitCount=1
+ResFiles=D:\Documents\Algoritma & Pemrograman\Tugas\Pascal\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\bin\Mainicon.ico
+[Unit1]
+FileName=D:\Documents\Algoritma & Pemrograman\Tugas\Pascal\penjumlahan_matriks.pas
+FileTime=1199735378

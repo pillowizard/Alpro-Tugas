@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Documents\Algoritma & Pemrograman\Tugas\Pascal\Menghitung Coklat Gratis v2.dp
+Name=Menghitung Coklat Gratis v2
+MainUnit=D:\Documents\Algoritma & Pemrograman\Tugas\Pascal\MenghitungCoklatGratisV2.pas
+UnitCount=1
+ResFiles=D:\Documents\Algoritma & Pemrograman\Tugas\Pascal\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\bin\Mainicon.ico
+[Unit1]
+FileName=D:\Documents\Algoritma & Pemrograman\Tugas\Pascal\MenghitungCoklatGratisV2.pas
+FileTime=1196373796

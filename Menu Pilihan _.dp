@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Documents\Algoritma & Pemrograman\Tugas\Pascal\Menu Pilihan _.dp
+Name=Menu Pilihan _
+MainUnit=D:\Documents\Algoritma & Pemrograman\Tugas\Pascal\MenuPilihan_.pas
+UnitCount=1
+ResFiles=D:\Documents\Algoritma & Pemrograman\Tugas\Pascal\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\bin\Mainicon.ico
+[Unit1]
+FileName=D:\Documents\Algoritma & Pemrograman\Tugas\Pascal\MenuPilihan_.pas
+FileTime=1195878886
