@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\documents\Algoritma & Pemrograman\Tugas\Pascal\Tugas Kelompok 2\buku\data_buku.dp
+Name=data_buku
+MainUnit=D:\documents\Algoritma & Pemrograman\Tugas\Pascal\Tugas Kelompok 2\buku\buku.pas
+UnitCount=1
+ResFiles=C:\Users\agung budie pangestu\Downloads\buku\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\documents\Algoritma & Pemrograman\Tugas\Pascal\Tugas Kelompok 2\buku\buku.pas
+FileTime=1201583489

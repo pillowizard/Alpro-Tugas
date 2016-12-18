@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Documents\Algoritma & Pemrograman\Tugas\Bab 6 No 3.dp
+Name=Bab 6 No 3
+MainUnit=D:\Documents\Algoritma & Pemrograman\Tugas\Bab6No3.pas
+UnitCount=1
+ResFiles=D:\Documents\Algoritma & Pemrograman\Tugas\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\bin\Mainicon.ico
+[Unit1]
+FileName=D:\Documents\Algoritma & Pemrograman\Tugas\Bab6No3.pas
+FileTime=1194888770

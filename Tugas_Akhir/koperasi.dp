@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\documents\Algoritma & Pemrograman\Tugas\Pascal\Tugas Akhir\koperasi.dp
+Name=koperasi
+MainUnit=D:\documents\Algoritma & Pemrograman\Tugas\Pascal\Tugas Akhir\koperasi_.pas
+UnitCount=1
+ResFiles=D:\documents\Algoritma & Pemrograman\Tugas\Pascal\Tugas Akhir\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\documents\Algoritma & Pemrograman\Tugas\Pascal\Tugas Akhir\koperasi_.pas
+FileTime=1211412819

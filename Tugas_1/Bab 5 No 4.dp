@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Documents\Algoritma & Pemrograman\Tugas\Bab 5 No 4.dp
+Name=Bab 5 No 4
+MainUnit=D:\Documents\Algoritma & Pemrograman\Tugas\Bab5No4.pas
+UnitCount=1
+ResFiles=D:\Documents\Algoritma & Pemrograman\Tugas\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\bin\Mainicon.ico
+[Unit1]
+FileName=D:\Documents\Algoritma & Pemrograman\Tugas\Bab5No4.pas
+FileTime=1194862844
